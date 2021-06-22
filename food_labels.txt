@@ -1,0 +1,5 @@
+0 1 (Empty)
+1 2 (Little)
+2 3 (Medium)
+3 4 (large)
+4 5 (Huge)
