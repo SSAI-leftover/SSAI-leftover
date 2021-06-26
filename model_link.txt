@@ -1,0 +1,4 @@
+model_80.11.h5 
+https://www.dropbox.com/s/e0bumn38ivao4ho/model_80.11.h5?dl=0
+model_80.11.tflite
+https://www.dropbox.com/s/5n1x4ye53iops65/model_80.11.tflite?dl=0
